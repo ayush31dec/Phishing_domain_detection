@@ -30,3 +30,5 @@ Short description of the small variant dataset:
 
 
 ## Folder Structure
+
+![Screenshot 2022-11-22 172914](https://user-images.githubusercontent.com/73020771/203310957-91f1afa9-ffca-4411-86ba-fc31b9923f11.png)
